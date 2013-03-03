@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="menu_settings">Settings</string>
+	<string name="menu_close">Close</string>
+	<string name="menu_start">Start</string>
+	<string name="menu_stop">Stop</string>
+	
+	<string name="label_speed">Speed: %1$s km/h</string>
+	<string name="label_distance">Distance: %1$s km</string>
+	<string name="label_heading">Heading: %1$s *</string>
+	
+	<string name="alert_geoloc_not_avail">Sorry, geolocation services are not available.
+	</string>
+</resources>
